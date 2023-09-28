@@ -1,4 +1,4 @@
-⚙ React.js - Node.js - PHP - MySQL 
+⚙ React.js - Node.js - PHP - MySQL <br>
 ✂️ Desde pequeña dibujo y creo. <br>
 🩰 Bailarina de ballet profesional, hasta que mi pie izquierdo se negó.<br>
 🔍 Ojo de diseñadora gráfica, todo el día. <br>
